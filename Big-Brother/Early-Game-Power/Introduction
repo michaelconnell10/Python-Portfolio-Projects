@@ -1,1 +1,4 @@
+The purpose of this project is to look into the statistics of the first 3 weeks of Big Brother to see whether it is better to win in the
+first few weeks of the game and potentially put a target on you or lay low and let the other houseguests take shots at each other.
 
+For this, I built out a SQL database and analyzed the data using Python in VSCode.
