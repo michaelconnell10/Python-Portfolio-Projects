@@ -2,3 +2,11 @@ The purpose of this project is to look into the statistics of the first 3 weeks 
 first few weeks of the game and potentially put a target on you or lay low and let the other houseguests take shots at each other.
 
 For this, I built out a SQL database and analyzed the data using Python in VSCode.
+
+For transparency sake, I have to make 2 notes:
+  1. I have not used any data from Big Brother's first season - this is more representative of what the UK version of Big Brother where it is
+  all voted on by the public and not what it now is. So all data begins with Big Brother 2.
+
+  2. In Big Brother 16 and 17, the majority of the season had 2 Heads of Household then their nominees would compete in a challenge to get
+  off the block and 'dethrone' their HoH. So for consistency sake, I have defined the week's Head of Household as whomever was sitting at
+  the HOH on eviction night for the entire dataset.
